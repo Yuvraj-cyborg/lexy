@@ -1,0 +1,3 @@
+## Lexy - An OS in Rust (sounds ambitious)
+
+A small OS from scratch in Rust.....
